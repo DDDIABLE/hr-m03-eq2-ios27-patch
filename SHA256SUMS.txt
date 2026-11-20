@@ -1,0 +1,3 @@
+7e8dc82c0fa77a9ff769ab597b5dfb0252c5cfcb6a77be7a7024849f041736f2  apk/HR-M03-EQ2-iOS27-patch.apk
+324dd70fa0db8717363c2be138fe019f4ecb0786addbb44aa20d2991c4ebf43e  firmware/HR_M03_EQ2_V012_iOS27_left.bin
+324dd70fa0db8717363c2be138fe019f4ecb0786addbb44aa20d2991c4ebf43e  firmware/HR_M03_EQ2_V012_iOS27_right.bin
